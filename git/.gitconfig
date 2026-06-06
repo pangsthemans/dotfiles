@@ -1,0 +1,10 @@
+[user]
+    name = pangsthemans
+    email = langiwemwale@gmail.com
+
+[core]
+    editor = nvim
+    autocrlf = input
+
+[diff]
+    tool = nvimdiff
